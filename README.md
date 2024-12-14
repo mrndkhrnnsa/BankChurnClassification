@@ -83,7 +83,7 @@ The dataset used for this project is a dummy [Bank Churn Dataset](https://raw.gi
 
 ### Customer Tenure and Attrition Probability
 
-![Customer Tenure and Attrition Probability](images/tenure,png)
+![Customer Tenure and Attrition Probability](images/tenure.png)
 
 **Insight:** The histogram shows customers in the 30-40 month range have the highest frequency of attrition. There is a noticeable decline in churn rates for those who have been customers for more than 40 months or less than 30 months. This suggests that although some customers may leave after a few years, long-term customers exhibit lower attrition rates, indicating that longer engagement may foster loyalty. Understanding the factors influencing a within the initial years could help the bank improve retention strategies and enhance customer loyalty over time.
 
