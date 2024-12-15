@@ -105,6 +105,12 @@ The dataset used for this project is a dummy [Bank Churn Dataset](https://raw.gi
 
 ## Model Selection and Analysis
 
+To figure out which model is the best, we will create three different models and evaluate:
+- Decision Tree (base model)
+- Random Forest
+- XGBoost
+
+
 - The Decision Tree model performs well with positive F1-score of 100% on train data and 95.26% on test data, showing decent precision and recall for both classes but slightly lower precision and recall, and signs of overfitting.
 - The Random Forest model has an F1-score of 100% on the train data and 96.74% on the test data with higher precision for both classes, but lower recall for the negative class compared to Decision Tree.
 - XGBoost reaches an F1-score of 99.99% on train data and 97.83% on test data, with the highest precision and recall for both classes, and more generalizable model.
